@@ -1,0 +1,19 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 4fr;
+}
+#izquierdacol {
+  background-color: rgb(21, 46, 126);
+  text-align: center;
+  font-weight: bold;
+  padding: 10px;
+}
+#derechacol {
+  background-color: rgb(255, 255, 255);
+  text-align: center;
+  font-weight: bold;
+  padding: 10px;
+}
+.alingi {
+  text-align: left;
+}
